@@ -103,5 +103,3 @@ https://github.com/sunnysavita10/Complete-LLM-Finetuning
 - SFT vs USFT (Supervised Fine-Tuning variants) (p. 2)
 - Embedding for Retrieval & Semantic Search (p. 2)
 - When to fine-tune embeddings vs models (p. 2)
-
-LLM Finetuning 01 syllabus Page 1 | Page 2 (pp. 1-2)
